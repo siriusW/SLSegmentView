@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F7DD86D6-8E8A-45A1-BFA3-258D1C799716</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D161C7AD6653CDEA0969D32101AA90FAF4639978</key>
+		<string>https://github.com/siriusW/Test.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>标签视图/标签视图.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D161C7AD6653CDEA0969D32101AA90FAF4639978</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/siriusW/Test.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D161C7AD6653CDEA0969D32101AA90FAF4639978</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D161C7AD6653CDEA0969D32101AA90FAF4639978</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Test</string>
+		</dict>
+	</array>
+</dict>
+</plist>
